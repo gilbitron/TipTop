@@ -1,6 +1,6 @@
 /*
  * jQuery TipTop v1.0
- * http://dev7studios.com
+ * http://gilbitron.github.io/TipTop
  *
  * Copyright 2013, Dev7studios
  * Free to use and abuse under the MIT license.
