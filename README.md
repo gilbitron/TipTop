@@ -3,6 +3,11 @@ TipTop
 
 Stupidly simple jQuery tooltips. No fuss. Doesn't support HTML or fixed position tooltips.
 
+Demo
+----
+
+See [gilbitron.github.io/TipTop](http://gilbitron.github.io/TipTop)
+
 Usage
 -----
 
